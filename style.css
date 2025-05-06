@@ -75,7 +75,11 @@ header img.main_photo {
   margin: 0;
   padding: 0;
 }
-
+/* 画面幅の50%の幅で画像を表示 */
+.image-vw {
+  width : 50vw ; 
+  }
+  
 
 /*---------- コンテンツ ----------*/
 
